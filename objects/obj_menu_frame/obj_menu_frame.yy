@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_char_menu",
+  "name": "obj_menu_frame",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,10 +11,7 @@
     "name": "functional",
     "path": "folders/Objects/ui/functional.yy",
   },
-  "parentObjectId": {
-    "name": "obj_menu",
-    "path": "objects/obj_menu/obj_menu.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_char_menu_closed",
-    "path": "sprites/spr_char_menu_closed/spr_char_menu_closed.yy",
+    "name": "spr_menu_frame",
+    "path": "sprites/spr_menu_frame/spr_menu_frame.yy",
   },
   "spriteMaskId": null,
   "visible": true,

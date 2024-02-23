@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_char_menu",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_faction_menu",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -31,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_char_menu_closed",
-    "path": "sprites/spr_char_menu_closed/spr_char_menu_closed.yy",
+    "name": "spr_faction_menu_closed",
+    "path": "sprites/spr_faction_menu_closed/spr_faction_menu_closed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

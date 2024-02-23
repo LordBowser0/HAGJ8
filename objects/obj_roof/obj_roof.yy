@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_char_menu",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_roof",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "functional",
-    "path": "folders/Objects/ui/functional.yy",
+    "name": "deco",
+    "path": "folders/Objects/ui/deco.yy",
   },
-  "parentObjectId": {
-    "name": "obj_menu",
-    "path": "objects/obj_menu/obj_menu.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_char_menu_closed",
-    "path": "sprites/spr_char_menu_closed/spr_char_menu_closed.yy",
+    "name": "spr_roof",
+    "path": "sprites/spr_roof/spr_roof.yy",
   },
   "spriteMaskId": null,
   "visible": true,

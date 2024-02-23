@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ui",
-    "path": "folders/Objects/ui.yy",
+    "name": "deco",
+    "path": "folders/Objects/ui/deco.yy",
   },
   "parentObjectId": null,
   "persistent": false,
