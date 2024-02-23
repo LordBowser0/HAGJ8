@@ -4,6 +4,7 @@ if faction != noone
 	faction.add_member(id)
 if familia != noone
 	familia.add_member(id)
+visible = false
 
 
 
